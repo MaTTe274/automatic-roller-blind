@@ -1,5 +1,5 @@
 # Automatic Roller Blind Controlled by Alexa using Sinric
-
+Alexa automatic roller blind Ikea Fridans
 ## Description
 This project involves creating an automatic roller blind that responds to voice commands via Amazon Alexa, facilitated by the Sinric platform. Users can open or close the roller blind using voice commands, enhancing convenience and accessibility in home automation.
 
