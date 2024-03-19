@@ -12,10 +12,10 @@ This project involves creating an automatic roller blind that responds to voice 
 - 3D printed components to adapt the original product to the customizations
 
 ## Usage
-1. **Assembly**: Assemble the roller blind and mount the motor on
+1. **Assembly**: Print the 3D component, assemble the roller blind and mount the motor on
 2. **Connection**: Connect the motor to the microcontroller and power it with the appropriate power supply.
-3. **Programming**: Program the microcontroller to interface with the Sinric platform and control the motor based on received commands.
-4. **Integration**: Integrate the device with the Sinric platform to enable Alexa voice commands to control the roller blind.
+3. **Programming**: Program the microcontroller to interface with the Sinric platform and control the motor based on received commands. 
+4. **Integration**: Integrate the device with the Sinric skill to enable Alexa voice commands to control the roller blind.
 
 ## Resources
 - [Sinric platform](https://sinric.com/)
